@@ -13,7 +13,7 @@ I'm Vedant Patil, a passionate developer and lifelong learner with a strong back
 ## 📫 Connect with Me
 - **Contact:** +91 8421340256
 - **Email:** vedantpatil10@gmail.com
-- **LinkedIn:** [linkedin.com/in/vedantpatil10]((http://www.linkedin.com/in/vedant-patil-vp10))
+- **LinkedIn:** http://www.linkedin.com/in/vedant-patil-vp10
 
 ---
 
