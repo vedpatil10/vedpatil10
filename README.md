@@ -9,19 +9,28 @@
 ---
 
 ###  About Me
-- Passionate about building practical AI/ML-powered web apps with clean UX
-- Love solving endtoend problems: backend APIs, data processing, and responsive UIs
-- Focused on Python, Flask, and modern JavaScript
+- I build practical, user-centric software with clean, maintainable code
+- Enjoy working across the stack: APIs, data, and intuitive UIs
+- Curious, fast learner, and a strong believer in iterative improvement
 
-###  Tech Stack
+###  Interests
+- Web engineering, automation, and developer experience (DX)
+- Data-driven apps and applied AI/NLP
+- Clean architecture and performance-minded design
+
+###  Tech I Use
 - Languages: Python, JavaScript, HTML, CSS
 - Backend: Flask, REST APIs
-- NLP: TextRank (sumy), youtube-transcript-api
-- Tools: Git, GitHub, VS Code
+- Databases & Tools: SQLite/Postgres basics, Git/GitHub, VS Code
+- Testing & Quality: pytest basics, linters/formatters
 
-###  Featured Project
-- **YouTube Transcript Summarizer** — Paste a YouTube URL and get a concise TL;DR using TextRank. Built with Flask, youtube-transcript-api, and a clean UI.
-  - Repo: https://github.com/vedpatil10/Youtube-Transcript-Summarizer
+###  Currently
+- Learning: deeper backend patterns, scalability, and cloud deployment basics
+- Exploring: modern JS tooling and UI patterns
+
+###  Collaboration
+- Open to collaborating on useful tools, web apps, and learning projects
+- Happy to discuss ideas and help review code
 
 ###  GitHub Stats
 <p>
@@ -29,11 +38,11 @@
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=vedpatil10&theme=transparent" />
 </p>
 
-###  Get in touch
+###  Contact
 - Email: add your email here
 - LinkedIn: add your LinkedIn here
 
 ---
 
-> Resume: Please see my resume for detailed experience and education.
+> Thanks for visiting! Always learning, always building.
 
