@@ -10,20 +10,10 @@ I'm Vedant Patil, a passionate developer and lifelong learner with a strong back
 - 💡 Driven by curiosity and a desire to make a positive impact with tech.
 - 🎓 Always learning and staying up-to-date with the latest in software and AI.
 
-## 🛠️ Skills & Technologies
-
-- "Languages" – Python, SQL, C++
-- "Analytical" – Machine Learning, Deep Learning (Neural Networks, CNN, LSTM), NLP, Statistical Modelling
-- "Frameworks & Libraries" – NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Matplotlib, Seaborn, Django, Flask
-- "Web Development" – HTML5, CSS3, JavaScript, ReactJS, Php, WordPress
-- "Databases" – MongoDB, MySQL
-- "Tools" – Git, Linux
-
 ## 📫 Connect with Me
-
+- **Contact:** +91 8421340256
 - **Email:** vedantpatil10@gmail.com
-- **LinkedIn:** [linkedin.com/in/vedantpatil10](https://linkedin.com/in/vedantpatil10)
-- **Portfolio:** (Add your portfolio link here, if any)
+- **LinkedIn:** [linkedin.com/in/vedantpatil10]((http://www.linkedin.com/in/vedant-patil-vp10))
 
 ---
 
