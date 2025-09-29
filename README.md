@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## 👨‍💻 About Me
 
-I'm Vedant Patil, a passionate developer and lifelong learner with a strong background in Machine Learning, Deep Learning, and Full Stack Development. My academic journey and professional projects have equipped me with a robust skillset to tackle real-world problems using technology.
+I'm Vedant Patil, a passionate developer and lifelong learner with a strong background in Data Science, AI, Machine Learning, Deep Learning, and Full Stack Development. My academic journey and professional projects have equipped me with a robust skillset to tackle real-world problems using technology.
 
 - 🌟 Currently exploring advanced AI applications and scalable web platforms.
 - 💡 Driven by curiosity and a desire to make a positive impact with tech.
