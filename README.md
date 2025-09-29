@@ -10,31 +10,14 @@ I'm Vedant Patil, a passionate developer and lifelong learner with a strong back
 - 💡 Driven by curiosity and a desire to make a positive impact with tech.
 - 🎓 Always learning and staying up-to-date with the latest in software and AI.
 
-## 🚀 My Top Projects
-
-Here are some of my featured repositories:
-
-- [**Early Breast Cancer Detection Using Machine Learning and Deep Learning**](https://github.com/vedpatil10/Early-Breast-Cancer-Detection-Using-Machine-Learning-and-Deep-Learning)  
-  Leveraging ML and DL algorithms to identify early-stage breast cancer with high accuracy.
-
-- [**CrowdFunding and Event Management Platform**](https://github.com/vedpatil10/CrowdFunding-and-Event-Management-Platform)  
-  A full-stack platform enabling users to create, manage, and fund events seamlessly.
-
-- [**AI CODE FORGE**](https://github.com/vedpatil10/AI-CODE-FORGE)  
-  A dynamic hub for AI-powered solutions, code experimentation, and automation tools.
-
-- [**Student Management System**](https://github.com/vedpatil10/Student-Management-System)  
-  An efficient system for managing student records, attendance, and academic performance.
-
-- [**Auto Reply AI Chatbot**](https://github.com/vedpatil10/Auto-Reply-AI-Chatbot)  
-  An intelligent chatbot capable of automated responses using NLP techniques.
-
 ## 🛠️ Skills & Technologies
 
-- **Languages:** Python, JavaScript, C/C++, Java
-- **Frameworks & Libraries:** TensorFlow, Keras, Scikit-learn, React, Node.js, Express
-- **Databases:** MySQL, MongoDB
-- **Other:** Git, Docker, REST APIs, Data Visualization, Flask, HTML/CSS
+- "Languages" – Python, SQL, C++
+- "Analytical" – Machine Learning, Deep Learning (Neural Networks, CNN, LSTM), NLP, Statistical Modelling
+- "Frameworks & Libraries" – NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Matplotlib, Seaborn, Django, Flask
+- "Web Development" – HTML5, CSS3, JavaScript, ReactJS, Php, WordPress
+- "Databases" – MongoDB, MySQL
+- "Tools" – Git, Linux
 
 ## 📫 Connect with Me
 
