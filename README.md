@@ -14,6 +14,7 @@ I'm Vedant Patil, a passionate developer and lifelong learner with a strong back
 - **Contact:** +91 8421340256
 - **Email:** vedantpatil10@gmail.com
 - **LinkedIn:** http://www.linkedin.com/in/vedant-patil-vp10
+- **Portfolio:** https://vedpatilportfolio.netlify.app/
 
 ---
 
